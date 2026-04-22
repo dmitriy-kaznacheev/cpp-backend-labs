@@ -1,1 +1,1 @@
-
+add_subdirectory(test_env_ci)
